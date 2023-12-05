@@ -1,8 +1,6 @@
-# OD-Automate
+# 
 
-I have added the work flow for the software function you can edit it using your SSH key but keep it clear and add request before merging to main branches.
-
-Here are useful links for Flows :
+Here are useful links to read more :
 
 https://whimsical.com/od-automate-C634jbPgL8yaStWQbaC5oh
 
