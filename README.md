@@ -1,7 +1,16 @@
-# 
+> [!WARNING]
+>Transitioning it from a basic setup utilizing `HTML`, `CSS`, and `JavaScript` to a more sophisticated ```React-based web application```.
 
-Here are useful links to read more :
+> Checkout latest version of the app [OD-Automate](https://github.com/CodesByKunal/OD-Automator)
 
-https://whimsical.com/od-automate-C634jbPgL8yaStWQbaC5oh
+---
 
-https://www.notion.so/VIT-AB-NORTH-ZONE-280458d323d8467da3dc6af18abdf629?pvs=4
+# OD-Automate
+
++ Geo Location based attendance system.
+
+## Technology Used
+
+```HTML``` ```CSS``` ```Javascript```  ```Google Sheet APIs``` 
+
+---
